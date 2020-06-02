@@ -1,12 +1,4 @@
 # -*- coding: utf-8 -*-
-
-# Form implementation generated from reading ui file 'final1.ui'
-#
-# Created: Wed Jan  3 16:01:17 2018
-#      by: PyQt5 UI code generator 5.4
-#
-# WARNING! All changes made in this file will be lost!
-
 from PyQt5 import QtCore, QtGui, QtWidgets
 class Ui_E(QtWidgets.QWidget):
     def setupUi(self, Form):
